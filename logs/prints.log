@@ -1,0 +1,2 @@
+11:04:42.912 [main] DEBUG scripts.TestValidLogin - Fetching username from excel file
+11:04:44.770 [main] INFO  scripts.TestValidLogin - username is successfully fetched
